@@ -2,8 +2,11 @@
   "id": "csprng-dice",
   "title": "CSPRNG Dice",
   "description": "Replaces Foundry's default Math.random() dice RNG with crypto.getRandomValues() for cryptographically secure randomness.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Caio Gomes",
+  "url": "https://github.com/caiocgomes/csprng-dice",
+  "manifest": "https://github.com/caiocgomes/csprng-dice/releases/latest/download/module.json",
+  "download": "https://github.com/caiocgomes/csprng-dice/releases/download/v1.1.0/csprng-dice-v1.1.0.zip",
   "compatibility": {
     "minimum": "10",
     "verified": "10"
